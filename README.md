@@ -29,6 +29,7 @@ AI opponent
 Move history and undo
 Timers and time controls
 Sound effects and animations
+Add pawn promotion selection UI
 
 Contributing
 Ideas, issues, and pull requests are welcome. Feel free to fork this project and build on it.
